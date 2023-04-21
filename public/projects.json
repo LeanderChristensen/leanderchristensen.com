@@ -1,0 +1,20 @@
+{
+	"projects": [
+	  {
+		"name": "youtube-to-deepfake",
+		"description": "Voice clone a youtube video",
+		"tech": "Node.js"
+	  },
+	  {
+		"name": "leanderbot",
+		"description": "My ChatGPT Discord bot",
+		"tech": "Node.js"
+	  },
+	  {
+		"name": "sjoveganlan",
+		"description": "School LAN sign up site",
+		"tech": "PHP"
+	  }
+	]
+  }
+  
