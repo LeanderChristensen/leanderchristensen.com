@@ -15,9 +15,9 @@ const ProjectsTable = () => {
       <tbody>
         {projects.map((project, index) => (
           <tr key={index}>
-            <td style={{width: "30%"}}>{project.name}</td>
-            <td style={{width: "56%"}}>{project.description}</td>
-            <td style={{width: "14%"}}>{project.tech}</td>
+            <td style={{width: "30%"}}><a href={project.link} target="_blank">{project.name}</a></td>
+            <td style={{width: "56%"}}><a href={project.link} target="_blank">{project.description}</a></td>
+            <td style={{width: "14%"}}><a href={project.link} target="_blank">{project.tech}</a></td>
           </tr>
         ))}
       </tbody>

@@ -19,7 +19,7 @@ const Footer = () => {
       ) : (
         <p>
           © Leander -{' '}
-          <a href="#" onClick={handleClick}>
+          <a style={{"cursor": "pointer"}} onClick={handleClick}>
             Contact Me
           </a>
         </p>

@@ -3,16 +3,19 @@
 	  {
 		"name": "youtube-to-deepfake",
 		"description": "Voice clone a youtube video",
+		"link": "https://github.com/LeanderChristensen/youtube-to-deepfake",
 		"tech": "Node.js"
 	  },
 	  {
 		"name": "leanderbot",
 		"description": "My ChatGPT Discord bot",
+		"link": "https://github.com/LeanderChristensen/",
 		"tech": "Node.js"
 	  },
 	  {
 		"name": "sjoveganlan",
 		"description": "School LAN sign up site",
+		"link": "https://github.com/LeanderChristensen/sjoveganlan",
 		"tech": "PHP"
 	  }
 	]
