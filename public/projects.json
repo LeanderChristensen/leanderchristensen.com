@@ -1,23 +1,29 @@
 {
 	"projects": [
-	  {
+	{
+		"name": "hs-deck-compare",
+		"description": "A tool to compare two hearthstone decks",
+		"link": "https://github.com/LeanderChristensen/hs-deck-compare",
+		"tech": "React"
+	},
+	{
 		"name": "youtube-to-deepfake",
 		"description": "Voice clone a youtube video",
 		"link": "https://github.com/LeanderChristensen/youtube-to-deepfake",
 		"tech": "Node.js"
-	  },
-	  {
+	},
+	{
 		"name": "leanderbot",
 		"description": "My ChatGPT Discord bot",
 		"link": "https://github.com/LeanderChristensen/leanderbot",
 		"tech": "Node.js"
-	  },
-	  {
+	},
+	{
 		"name": "sjoveganlan",
 		"description": "School LAN sign up site",
 		"link": "https://github.com/LeanderChristensen/sjoveganlan",
 		"tech": "PHP"
-	  }
+	}
 	]
   }
   

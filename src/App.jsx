@@ -14,8 +14,8 @@ function App() {
 	<>
     	<div id="headlineInfo">
 			<div id="headlineInfoLeft">
-        		<div id="faceContainer">
-        			<img src="/face.jpg" id="face" alt="Leander's face" className={spinClass} onClick={handleClick}/>
+        		<div id="faceContainer" className={spinClass} onClick={handleClick}>
+        			<img src="/face.jpg" id="face" alt="Leander's face"/>
 				</div>
 		</div>
 		<div id="headlineInfoRight">

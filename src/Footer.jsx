@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 const Footer = () => {
   const [showEmail, setShowEmail] = useState(false);
-  const email = 'email@leanderchristensen.com';
+  const email = 'email@l-c.io';
 
   const handleClick = () => {
     setShowEmail(true);
