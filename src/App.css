@@ -151,24 +151,23 @@ a {
 	#name {
 		font-size: 20px;
 	}
+	/* Screens less than 830px height */
+	@media screen and (max-height: 829px) {
+		#headlineInfo {
+			margin-top: 25px;
+		}
+		#headlineInfoLeft {
+			height: 175px;
+		}
+		#headlineInfoRight {
+			height: 175px;
+		}
+	}
 }
 
 /* Screens less than 600px height */
 @media screen and (max-height: 599px) {
 	#footer {
 		display: none;
-	}
-}
-
-/* Screens less than 830px height */
-@media screen and (max-height: 829px) {
-	#headlineInfo {
-		margin-top: 25px;
-	}
-	#headlineInfoLeft {
-		height: 175px;
-	}
-	#headlineInfoRight {
-		height: 175px;
 	}
 }
