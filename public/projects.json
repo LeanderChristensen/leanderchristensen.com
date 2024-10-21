@@ -1,6 +1,30 @@
 {
 	"projects": [
 	{
+		"name": "snake",
+		"description": "Snake in javascript",
+		"link": "https://github.com/LeanderChristensen/snake",
+		"tech": "Javascript"
+	},
+	{
+		"name": "slots",
+		"description": "A slots game made in javascript ",
+		"link": "https://github.com/LeanderChristensen/slots",
+		"tech": "Javascript"
+	},
+	{
+		"name": "space_invaders",
+		"description": "A recreation of Space Invaders",
+		"link": "https://github.com/LeanderChristensen/space_invaders",
+		"tech": "Javascript"
+	},
+	{
+		"name": "flappy_bird_python",
+		"description": "A recreation of Flappy Bird",
+		"link": "https://github.com/LeanderChristensen/flappy_bird_python",
+		"tech": "Python"
+	},
+	{
 		"name": "hs-deck-compare",
 		"description": "A tool to compare two hearthstone decks",
 		"link": "https://github.com/LeanderChristensen/hs-deck-compare",
@@ -25,5 +49,4 @@
 		"tech": "PHP"
 	}
 	]
-  }
-  
+}
