@@ -87,10 +87,10 @@ a {
 	margin-left: 119px;
 	margin-top: 0;
 	display: inline;
-	margin-right: 260px;
+	margin-right: 310px;
 }
 
-#gamesText {
+#funText {
 	font-size: 30px;
 	display: inline;
 	margin-top: 0;
@@ -140,7 +140,7 @@ a {
 	#projectsText {
 		margin-left: 16%;
 		width: 200px;
-		margin-right: 20%;
+		margin-right: 30%;
 	}
 	#headlineInfoLeft {
 		width: 45%;
@@ -180,7 +180,7 @@ a {
 			display: none;
 		}
 	}
-	#projectsText, #gamesText {
+	#projectsText, #funText {
 		font-size: 24px;
 	}
 }

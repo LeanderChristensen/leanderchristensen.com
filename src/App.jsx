@@ -24,7 +24,7 @@ function App() {
 			<div className="socialText"><a href="https://www.linkedin.com/in/leanderchristensen/" target="_blank"><i className="fa-brands fa-linkedin"></i><p className="socialTextText">LinkedIn</p></a></div>
 		</div>
     	</div>
-		<div id="projects"><p id="projectsText">Projects</p><a href="https://l-c.io/fun"><p id="gamesText">Games ➔</p></a>
+		<div id="projects"><p id="projectsText">Projects</p><a href="fun"><p id="funText">Fun ➔</p></a>
 			<ProjectsTable />
 		</div>
     </>
