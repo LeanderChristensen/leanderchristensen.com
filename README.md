@@ -1,6 +1,6 @@
-# l-c.io
+# leanderchristensen.com
 My personal homepage
 
-You can access it at [l-c.io](https://l-c.io)
+You can access it at [leanderchristensen.com](https://leanderchristensen.com)
 
-![l-c.io preview](https://i.imgur.com/BP1YOTD.png)
+![leanderchristensen.com preview](https://i.imgur.com/BP1YOTD.png)
