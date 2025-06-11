@@ -1,0 +1,13 @@
+{
+	"projects": [
+	{
+		"name": "snake",
+		"description": "Snake in javascript",
+		"link": "https://github.com/LeanderChristensen/snake",
+		"link2": "https://l-c.io/fun/snake",
+		"tech": "Javascript",
+		"tech2": "0",
+		"tech3": "0"
+	}
+	]
+}

@@ -4,73 +4,49 @@
 		"name": "snake",
 		"description": "Snake in javascript",
 		"link": "https://github.com/LeanderChristensen/snake",
-		"link2": "https://l-c.io/fun/snake",
-		"tech": "Javascript",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "Javascript"
 	},
 	{
 		"name": "slots",
 		"description": "A slots game made in javascript ",
 		"link": "https://github.com/LeanderChristensen/slots",
-		"link2": "https://l-c.io/fun/slots",
-		"tech": "Javascript",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "Javascript"
 	},
 	{
 		"name": "space_invaders",
 		"description": "A recreation of Space Invaders",
 		"link": "https://github.com/LeanderChristensen/space_invaders",
-		"link2": "https://l-c.io/fun/spaceinvaders",
-		"tech": "Javascript",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "Javascript"
 	},
 	{
 		"name": "flappy_bird_python",
 		"description": "A recreation of Flappy Bird",
 		"link": "https://github.com/LeanderChristensen/flappy_bird_python",
-		"link2": "0",
-		"tech": "Python",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "Python"
 	},
 	{
 		"name": "hs-deck-compare",
 		"description": "A tool to compare two hearthstone decks",
 		"link": "https://github.com/LeanderChristensen/hs-deck-compare",
-		"link2": "https://l-c.io/hsdeckcompare",
-		"tech": "React",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "React"
 	},
 	{
 		"name": "youtube-to-deepfake",
 		"description": "Voice clone a youtube video",
 		"link": "https://github.com/LeanderChristensen/youtube-to-deepfake",
-		"link2": "0",
-		"tech": "Node.js",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "Node.js"
 	},
 	{
 		"name": "leanderbot",
 		"description": "My ChatGPT Discord bot",
 		"link": "https://github.com/LeanderChristensen/leanderbot",
-		"link2": "0",
-		"tech": "Node.js",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "Node.js"
 	},
 	{
 		"name": "sjoveganlan",
 		"description": "School LAN sign up site",
 		"link": "https://github.com/LeanderChristensen/sjoveganlan",
-		"link2": "https://l-c.io/lan",
-		"tech": "PHP",
-		"tech2": "0",
-		"tech3": "0"
+		"tech": "PHP"
 	}
 	]
 }
