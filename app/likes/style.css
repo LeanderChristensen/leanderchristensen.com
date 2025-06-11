@@ -1,0 +1,79 @@
+.projectCard {
+	/* background-color: red; */
+	width: 350px;
+	padding: 10px 30px;
+	height: 180px;
+	margin: 20px auto;
+	border: 1px rgb(73, 73, 73) solid;
+	border-radius: 5px;
+}
+
+.projectButton {
+	border: 1px rgb(73, 73, 73) solid;
+	border-radius: 5px;
+	font-size: 12px;
+	padding: 11px;
+	font-weight: 500;
+	margin-right: 15px;
+}
+
+.projectButton:hover {
+	background-color: rgb(56, 56, 56);
+	border: 1px rgb(123, 123, 123) solid;
+}
+
+#projectsTable {
+	/* margin-top: 150px; */
+}
+
+.projectTitle {
+	font-size: 18px;
+	margin-bottom: 0px;
+}
+
+.projectDesc {
+	font-size: 14px;
+	color: rgb(156, 163, 175);
+	margin-top: 12px;
+}
+
+.projectTech {
+	font-size: 12px;
+	background-color: rgb(255 255 255 / 0.1);
+	border-radius: 5px;
+	padding: 5px;
+	display: inline-block;
+	margin-bottom: 23px;
+	margin-right: 7px;
+	margin-top: 0;
+}
+
+#projectHeadline {
+	text-align: center;
+}
+
+#backButton {
+	margin-right: 50px;
+	margin-top: 50px;
+	display: block;
+	/* border: 1px rgb(73, 73, 73) solid; */
+	border-radius: 5px;
+	width: 120px;
+	padding: 12px 20px;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+#backButton:hover {
+	background-color: rgb(56, 56, 56);
+}
+
+#backArrow {
+	color: "#fcfbff";
+	margin-right: 10px;
+}
+
+#footer {
+	position: relative;
+	margin: 50px 0;
+}
